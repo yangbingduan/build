@@ -1,0 +1,7 @@
+#s_popup_advert .shrink-link{display:block;height:44px}
+#s_popup_advert .shrink{display:block;width:100%;height:100%;border-radius:22px}
+#s_popup_advert .replay{cursor:pointer;display:block;margin-top:6px;border-radius:4px;text-align:center;line-height:20px;font-size:13px;color:#9195a3}
+#s_popup_advert .close-shrink:hover{color:#9195a3}
+#s_popup_advert .replay:hover{color:#626675}
+@media screen and (max-width:1158px){
+#s_popup_advert{display:none}
